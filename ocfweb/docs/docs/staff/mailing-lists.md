@@ -40,10 +40,9 @@ and any other staffer can audit it as well.
 
 Operations Staff are added to the `opstaff` mailing list.
 
-<!-- TODO: uncomment when this list becomes official
-Alumni are able to join the `alums` mailing list. Announcements about alumni
-events and the like are sent here.
--->
+<!-- TODO: uncomment when this list becomes official -->
+<!-- Alumni are able to join the `alums` mailing list. Announcements -->
+<!-- about alumni events and the like are sent here. -->
 
 There are also some special purpose mailing lists:
 
