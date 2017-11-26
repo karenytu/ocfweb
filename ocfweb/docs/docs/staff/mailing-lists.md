@@ -32,7 +32,7 @@ Technical Managers are required to join them:
     * [Rackspace Cloud Monitoring][rackspace] emails us alerts when our
       important services are inaccessible from outside the OCF network.
     * [Munin][munin] sends mail whenever some munin measurement (e.g. disk
-      usage, RAM usage, etc.) is outside the normal range
+      usage, RAM usage, etc.) is outside the normal range.
 
 On the administrative side, the `officers` mailing list receives emails related
 to OCF administrivia. Cabinet members are expected to be on this mailing list,
